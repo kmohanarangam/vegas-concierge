@@ -1,0 +1,8 @@
+com\amazon\hackathon\model\DialogAction.class
+com\amazon\hackathon\model\Response.class
+com\amazon\hackathon\service\ThingsToDoService.class
+com\amazon\hackathon\configuration\AppConfig.class
+com\amazon\hackathon\lambdahandler\ThingsToDoResponse.class
+com\amazon\hackathon\lambdahandler\LambdaThingsToDoHandler.class
+com\amazon\hackathon\model\Message.class
+com\amazon\hackathon\lambdahandler\ThingsToDoRequest.class

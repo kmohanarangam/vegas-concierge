@@ -1,0 +1,19 @@
+{
+  "currentIntent": {
+    "slots": {
+        "restaurantType" : "Mexican"
+    },
+    "name": "PlacesToEat",
+    "confirmationStatus": "None"
+  },
+  "bot": {
+    "alias": "alis",
+    "version": "1",
+    "name": "MakeAppointment"
+  },
+  "userId": "John",
+  "invocationSource": "DialogCodeHook",
+  "outputDialogMode": "Text",
+  "messageVersion": "1.0",
+  "sessionAttributes": {}
+}

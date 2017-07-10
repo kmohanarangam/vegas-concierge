@@ -1,0 +1,12 @@
+D:\Workspace\amazon-hackathon\lex-common\src\main\java\com\amazon\hackathon\params\Message.java
+D:\Workspace\amazon-hackathon\lex-common\src\main\java\com\amazon\hackathon\params\LexRequest.java
+D:\Workspace\amazon-hackathon\lex-common\src\main\java\com\amazon\hackathon\params\Button.java
+D:\Workspace\amazon-hackathon\lex-common\src\main\java\com\amazon\hackathon\params\DialogAction.java
+D:\Workspace\amazon-hackathon\lex-common\src\main\java\com\amazon\hackathon\params\GenericAttachment.java
+D:\Workspace\amazon-hackathon\lex-common\src\main\java\com\amazon\hackathon\params\CurrentIntent.java
+D:\Workspace\amazon-hackathon\lex-common\src\main\java\com\amazon\hackathon\params\Bot.java
+D:\Workspace\amazon-hackathon\lex-common\src\main\java\com\amazon\hackathon\params\ResponseCard.java
+D:\Workspace\amazon-hackathon\lex-common\src\main\java\com\amazon\hackathon\params\Slots.java
+D:\Workspace\amazon-hackathon\lex-common\src\main\java\com\amazon\hackathon\params\LexResponse.java
+D:\Workspace\amazon-hackathon\lex-common\src\main\java\com\amazon\hackathon\params\SessionAttributes.java
+D:\Workspace\amazon-hackathon\lex-common\src\main\java\com\amazon\hackathon\serializer\CustomSlotsSerializer.java
